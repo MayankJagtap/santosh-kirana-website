@@ -391,7 +391,7 @@ const contactForm = document.getElementById("contactForm");
 // IMPORTANT: Add the shop's real WhatsApp number here.
 // Format: 91 followed by the 10-digit number.
 
-const shopWhatsAppNumber = "919174401435";
+const shopWhatsAppNumber = "919926042830";
 
 contactForm.addEventListener("submit", (event) => {
 
